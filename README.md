@@ -1,6 +1,6 @@
 # Olá, eu sou Deb (˵◝⩊◜˵マ
 
-> *"A cada ponto e vírgula, teço pontes invisíveis entre a lógica fria e a imaginação."* ฅ^•ﻌ•^ฅ
+> *"Não é o que o mundo reserva para você, mas o que você traz para o mundo."* ฅ^•ﻌ•^ฅ
 
 ---
 
