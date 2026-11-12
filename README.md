@@ -1,11 +1,12 @@
 # Olá, eu sou Deb (˵◝⩊◜˵マ
 
-> *"Entre linhas de código e xícaras de café, transformo ideias silenciosas em universos digitais."* 🐾
+> *"A cada ponto e vírgula, teço pontes invisíveis entre a lógica fria e a imaginação."* ฅ^•ﻌ•^ฅ
 
 ---
 
-### ✨ Sobre mim 🐱
+### ✨ Sobre mim
 
-- 🌱 Atualmente explorando novas tecnologias e aprendendo todos os dias.
-- 💻 Apaixonado por resolver problemas e construir projetos criativos.
-- 📫 Como falar comigo: **[clique aqui :D](debora.slteixeira09@gmail.com)**
+- 🔭 Atualmente estudando **[Introdução À Programação Com Python]**
+- 🌱 Aprendendo e aprofundando meus conhecimentos em **[Pytron]**
+- ⚡ Curiosidade: **[Sei imitar o Marciano de Lonney Tunes]** (=^･ω･^=)
+
